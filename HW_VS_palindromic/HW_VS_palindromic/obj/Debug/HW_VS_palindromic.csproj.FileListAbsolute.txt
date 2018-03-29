@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HW_VS_palindromic\HW_VS_palindromic\obj\Debug\HW_VS_palindromic.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\HW_VS_palindromic\HW_VS_palindromic\obj\Debug\HW_VS_palindromic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_VS_palindromic\HW_VS_palindromic\bin\Debug\HW_VS_palindromic.exe.config
+C:\Users\User\source\repos\HW_VS_palindromic\HW_VS_palindromic\bin\Debug\HW_VS_palindromic.exe
+C:\Users\User\source\repos\HW_VS_palindromic\HW_VS_palindromic\bin\Debug\HW_VS_palindromic.pdb
+C:\Users\User\source\repos\HW_VS_palindromic\HW_VS_palindromic\obj\Debug\HW_VS_palindromic.exe
+C:\Users\User\source\repos\HW_VS_palindromic\HW_VS_palindromic\obj\Debug\HW_VS_palindromic.pdb

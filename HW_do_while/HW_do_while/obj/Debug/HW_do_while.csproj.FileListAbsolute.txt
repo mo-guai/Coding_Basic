@@ -1,0 +1,7 @@
+C:\Users\MO-GUAI\Documents\VS\HW_do_while\HW_do_while\bin\Debug\HW_do_while.exe.config
+C:\Users\MO-GUAI\Documents\VS\HW_do_while\HW_do_while\bin\Debug\HW_do_while.exe
+C:\Users\MO-GUAI\Documents\VS\HW_do_while\HW_do_while\bin\Debug\HW_do_while.pdb
+C:\Users\MO-GUAI\Documents\VS\HW_do_while\HW_do_while\obj\Debug\HW_do_while.csprojResolveAssemblyReference.cache
+C:\Users\MO-GUAI\Documents\VS\HW_do_while\HW_do_while\obj\Debug\HW_do_while.csproj.CoreCompileInputs.cache
+C:\Users\MO-GUAI\Documents\VS\HW_do_while\HW_do_while\obj\Debug\HW_do_while.exe
+C:\Users\MO-GUAI\Documents\VS\HW_do_while\HW_do_while\obj\Debug\HW_do_while.pdb

@@ -1,0 +1,7 @@
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Lotto\HW_VS_Lotto\bin\Debug\HW_VS_Lotto.exe.config
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Lotto\HW_VS_Lotto\bin\Debug\HW_VS_Lotto.exe
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Lotto\HW_VS_Lotto\bin\Debug\HW_VS_Lotto.pdb
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Lotto\HW_VS_Lotto\obj\Debug\HW_VS_Lotto.csprojResolveAssemblyReference.cache
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Lotto\HW_VS_Lotto\obj\Debug\HW_VS_Lotto.csproj.CoreCompileInputs.cache
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Lotto\HW_VS_Lotto\obj\Debug\HW_VS_Lotto.exe
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Lotto\HW_VS_Lotto\obj\Debug\HW_VS_Lotto.pdb

@@ -1,0 +1,7 @@
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Function_gcd_lem\HW_VS_Function_gcd_lem\bin\Debug\HW_VS_Function_gcd_lem.exe.config
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Function_gcd_lem\HW_VS_Function_gcd_lem\bin\Debug\HW_VS_Function_gcd_lem.exe
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Function_gcd_lem\HW_VS_Function_gcd_lem\bin\Debug\HW_VS_Function_gcd_lem.pdb
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Function_gcd_lem\HW_VS_Function_gcd_lem\obj\Debug\HW_VS_Function_gcd_lem.csprojResolveAssemblyReference.cache
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Function_gcd_lem\HW_VS_Function_gcd_lem\obj\Debug\HW_VS_Function_gcd_lem.csproj.CoreCompileInputs.cache
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Function_gcd_lem\HW_VS_Function_gcd_lem\obj\Debug\HW_VS_Function_gcd_lem.exe
+C:\Users\MO-GUAI\Documents\VS\HW_VS_Function_gcd_lem\HW_VS_Function_gcd_lem\obj\Debug\HW_VS_Function_gcd_lem.pdb

@@ -1,0 +1,7 @@
+c:\users\user\source\repos\HW_VS_Armstrong\HW_VS_Armstrong\bin\Debug\HW_VS_Armstrong.exe.config
+c:\users\user\source\repos\HW_VS_Armstrong\HW_VS_Armstrong\bin\Debug\HW_VS_Armstrong.exe
+c:\users\user\source\repos\HW_VS_Armstrong\HW_VS_Armstrong\bin\Debug\HW_VS_Armstrong.pdb
+c:\users\user\source\repos\HW_VS_Armstrong\HW_VS_Armstrong\obj\Debug\HW_VS_Armstrong.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\HW_VS_Armstrong\HW_VS_Armstrong\obj\Debug\HW_VS_Armstrong.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\HW_VS_Armstrong\HW_VS_Armstrong\obj\Debug\HW_VS_Armstrong.exe
+c:\users\user\source\repos\HW_VS_Armstrong\HW_VS_Armstrong\obj\Debug\HW_VS_Armstrong.pdb

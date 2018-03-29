@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HW_VS_calculator\HW_VS_calculator\bin\Debug\HW_VS_calculator.exe.config
+C:\Users\User\source\repos\HW_VS_calculator\HW_VS_calculator\bin\Debug\HW_VS_calculator.exe
+C:\Users\User\source\repos\HW_VS_calculator\HW_VS_calculator\bin\Debug\HW_VS_calculator.pdb
+C:\Users\User\source\repos\HW_VS_calculator\HW_VS_calculator\obj\Debug\HW_VS_calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\HW_VS_calculator\HW_VS_calculator\obj\Debug\HW_VS_calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_VS_calculator\HW_VS_calculator\obj\Debug\HW_VS_calculator.exe
+C:\Users\User\source\repos\HW_VS_calculator\HW_VS_calculator\obj\Debug\HW_VS_calculator.pdb
